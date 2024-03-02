@@ -14,6 +14,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Bruno Gomes
 
 ### Linkedin: https://www.linkedin.com/in/bruno-gomes-silva-679820a5/
